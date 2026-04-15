@@ -44,13 +44,7 @@ big_triangle_size = speed * 4
 
 I learned how to draw `triangle` with the `draw()` function from Chatgpt. To better control the composition of the triangles, I created a Numpy array and forced its data type to int32, making sure that the coordinates of each point (i.e. [x, y]) are 32-bit integers. This approach allowed me to write triangles of two different sizes.
 
-<img width="124" alt="fish2parts" src="https://git.arts.ac.uk/24009429/STEM2425-AiningXu-Portfolio/assets/1178/103fea95-4d16-4b12-8962-5457d49b82ec">
-
 ## Troubleshooting
-
-After completing everything above, I got the following canvas:
-
-https://git.arts.ac.uk/24009429/STEM2425-AiningXu-Portfolio/assets/1178/317660c0-9a48-4991-8b9f-1c707a51abd4
 
 During my review, I realized an important detail: the relative position of the fish should change with movement. This issue prompted me to revisit the code and eventually found a potential error.
 
@@ -81,7 +75,11 @@ for i in range(4):
 
 Finally, I combined the mouse pattern with the color change in the background to complete the final piece. Since I had a good grasp of the relationship between color and relative position at the beginning of the project, I had no problems with these two features.
 
-https://git.arts.ac.uk/24009429/STEM2425-AiningXu-Portfolio/assets/1178/3044a81b-568f-4d37-9d90-f62c0e3ce71a
+
+
+https://github.com/user-attachments/assets/c4009398-5e0d-47ce-bdca-496286439c70
+
+
 
 ## Conclusion
 
