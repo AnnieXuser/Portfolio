@@ -77,7 +77,8 @@ row = math.floor((dot.mouse_y / dot.height)*3)
 print({col}, {row})
 ```
 
-https://git.arts.ac.uk/24009429/STEM2425-AiningXu-Portfolio/assets/1178/8410bbc0-cfc5-4a69-a174-9ac54820cd3c
+
+https://github.com/user-attachments/assets/e153bf7d-9df2-444b-bd93-f702aabc50c8
 
 
 I intended to have different music playing in each different area, but tried multiple methods that didn't work, so I continued the interaction with only one music file.
