@@ -63,8 +63,6 @@ max_factor = 2
 factor = min(factor + 0.5, max_factor) - 0.5
 ```
 
-https://git.arts.ac.uk/24009429/STEM2425-AiningXu-Portfolio/assets/1178/6bb579b3-2cd7-4b63-9cb5-f06fc32be53c
-
 Through this exploration, I realized the importance of qualifying values for project completeness, but unnecessary constraints can make code redundant.
 
 ## Col and Row
