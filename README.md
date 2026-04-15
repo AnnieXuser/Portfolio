@@ -9,5 +9,7 @@ https://github.com/AnnieXuser/Portfolio/tree/main/Creative-experiments
 
 ## Chatbot: Pre Dream 🐑🐑🐑
 
+https://github.com/AnnieXuser/Portfolio/tree/main/Chatbot_Pre_Dream
+
 <img width="1438" height="972" alt="image" src="https://github.com/user-attachments/assets/437eb76e-e88c-4ce3-b90f-e872a7ef277f" />
 
