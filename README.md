@@ -50,6 +50,6 @@ Small, maybe-weird things I built for fun — powered by curiosity and AI.
 
 ### 🎨其他
 
-交互设计/服务设计相关项目
+交互设计/服务设计相关项目（使用Adobe的Ai软件排版）
 <img width="1868" height="826" alt="5bc20f0e-7528-4a81-91ab-caf50790ee16" src="https://github.com/user-attachments/assets/a66e8415-4b2d-401f-8766-cd962e3990f4" />
 
