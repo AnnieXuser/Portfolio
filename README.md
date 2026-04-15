@@ -1,14 +1,18 @@
-# Portfolio
+# Portfolio for 春潮Spring | 深圳黑客松
 ## About me
 - 姓名：徐蔼宁(Annie)
+  
   `e值在40%以上的infp🦋/infj👴`
+
+  `sbit是zzzz（装死者）但！对热爱的事绝不装4️⃣`
+
 
 - 教育背景
   `学习Vibe coding的契机 -- 文科生从0开始写代码`
   
-  2024.09-2025.12 | 伦敦艺术学院 硕士 | 数据科学与创意产业AI
+  25届 | 伦敦艺术学院 | 数据科学与创意产业AI ｜ 硕士
   
-  2019.09-2023.06 |广东财经大学 本科 | 国际经济与贸易
+  23届 | 广东财经大学 | 国际经济与贸易 ｜ 本科
   
 
 - 校园经历
@@ -23,8 +27,14 @@
 
 
 - 志愿者经历
+
+  `干dirty work不如做志愿！`
   
-  伦敦慈善店志愿者、深圳全心犬意流浪动物组织志愿者、深圳社区志愿者
+  伦敦慈善店志愿者
+
+  深圳全心犬意流浪动物组织志愿者
+
+  深圳社区志愿者
 
 
 ## Projects
@@ -38,3 +48,7 @@ Small, maybe-weird things I built for fun — powered by curiosity and AI.
 <img width="1438" height="972" alt="image" src="https://github.com/user-attachments/assets/437eb76e-e88c-4ce3-b90f-e872a7ef277f" />
 
 ### 🎨其他
+
+交互设计/服务设计相关项目
+<img width="1868" height="826" alt="5bc20f0e-7528-4a81-91ab-caf50790ee16" src="https://github.com/user-attachments/assets/a66e8415-4b2d-401f-8766-cd962e3990f4" />
+
