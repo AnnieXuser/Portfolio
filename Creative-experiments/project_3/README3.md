@@ -17,7 +17,7 @@ plt.title("Generated Tone Waveform")
 plt.show()
 ```
 
-<img width="637" alt="wavefile" src="https://git.arts.ac.uk/24009429/STEM2425-AiningXu-Portfolio/assets/1178/efa0db8f-ce58-4df1-90c7-818a2485a849">
+<img width="1274" height="955" alt="efa0db8f-ce58-4df1-90c7-818a2485a849" src="https://github.com/user-attachments/assets/f21aef76-9dc9-40ab-8764-943553e5e9f9" />
 
 ## Creative Ideas & Audio Editing
 
@@ -55,6 +55,10 @@ This process made me realize more deeply that audio processing is highly matchy-
 
 Finally, to make the mix sound better, I lowered the volume of the `speaking` to blend smoothly with the random notes. I then added background sounds to give the piece more depth and space, completing the work.
 
-https://git.arts.ac.uk/24009429/STEM2425-AiningXu-Portfolio/assets/1178/c2094dfe-9497-4101-98f0-c51c09dcc985
+
+
+https://github.com/user-attachments/assets/12785bc9-48ea-4c50-83d2-f59f27e0b229
+
+
 
 In this process, I deeply understood the unique charm inspired by the collision of randomness and certainty - the freedom and disorder of random notes, intertwined with the designed structure and rhythm, not only enriched the listening experience, but also injected a dynamic vitality into the work.
