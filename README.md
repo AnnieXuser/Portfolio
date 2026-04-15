@@ -46,12 +46,16 @@ Small, maybe-weird things I built for fun — powered by curiosity and AI.
 
 
 ### 🎵 [Chatbot: Pre Dream 你的睡前故事与音乐伴侣](https://github.com/AnnieXuser/Portfolio/tree/main/Chatbot_Pre_Dream)
+
 Pre-dream​ 是一个基于 Python 的互动式聊天机器人，专为睡前放松和冥想设计。它通过对话了解你的偏好，为你生成个性化的睡前故事，并推荐与心情相匹配的歌曲，帮助你在音乐和故事的陪伴中平静入睡。
+
 <img width="1438" height="972" alt="image" src="https://github.com/user-attachments/assets/437eb76e-e88c-4ce3-b90f-e872a7ef277f" />
 
 ### 🎨 其他
 
 交互设计/服务设计相关项目
-<img width="1868" height="826" alt="5bc20f0e-7528-4a81-91ab-caf50790ee16" src="https://github.com/user-attachments/assets/a66e8415-4b2d-401f-8766-cd962e3990f4" />
+
+<img width="1696" height="750" alt="9f04bfef-4924-4b91-b8cf-464cedfefc3d" src="https://github.com/user-attachments/assets/2c861c67-4e85-4c4d-b567-d7f4d8b76def" />
+
 
 ## 👽 期待加入志愿团队！
